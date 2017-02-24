@@ -98,7 +98,7 @@
     });
 
     $(this).find('.fancybox').each(function(){
-      $(this).attr('rel', 'article' + i);
+      $(this).attr('rel', 'article' + i + '-' + $(this).attr('rel'));
     });
   });
 
