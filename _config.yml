@@ -2,6 +2,9 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
+linkedin: http://ca.linkedin.com/in/rudolfpotucek
+github: http://github.com/frumpel
 rss: /atom.xml
 
 # Content
